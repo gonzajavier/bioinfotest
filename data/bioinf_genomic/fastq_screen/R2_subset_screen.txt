@@ -1,6 +1,0 @@
-#Fastq_screen version: 0.16.0	#Aligner: bowtie2	#Reads in subset: 100000
-Genome	#Reads_processed	#Unmapped	%Unmapped	#One_hit_one_genome	%One_hit_one_genome	#Multiple_hits_one_genome	%Multiple_hits_one_genome	#One_hit_multiple_genomes	%One_hit_multiple_genomes	Multiple_hits_multiple_genomes	%Multiple_hits_multiple_genomes
-Zebrafish	2000	265	13.25	1033	51.65	702	35.10	0	0.00	0	0.00
-Ecoli	2000	2000	100.00	0	0.00	0	0.00	0	0.00	0	0.00
-
-%Hit_no_genomes: 13.25
