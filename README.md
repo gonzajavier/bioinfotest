@@ -16,7 +16,7 @@ Su propósito es documentar de manera clara y ordenada cada paso del flujo de tr
 ## 🚀 Flujo de análisis RNA-seq  
 
 1. **📊 Control de calidad inicial**  
-   - Evaluar la calidad de las lecturas crudas con *FastQC* y *Fastq_screen* y consolidar reportes con *MultiQC*.  
+   - Evaluar la calidad de las lecturas crudas con *FastQC* y *Fastq_screen*.  
 
 2. **✂️ Preprocesamiento (Trimming y filtrado)**  
    - Eliminar adaptadores y bases de baja calidad (*Cutadapt*, *Trimmomatics*, *NGS QC Toolkit*, *FASTX-Toolkit*).  
