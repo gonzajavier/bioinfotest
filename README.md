@@ -7,8 +7,8 @@ Su propósito es documentar de manera clara y ordenada cada paso del flujo de tr
 ---
 
 ## 📂 Estructura del repositorio  
-|-- data -> Datos crudos y procesados (FASTQ, BAM, GTF, etc.)
-|-- ntbk -> Cuadernos Júpyter con el proceso de ejecución de los análisis
+|-- data -> Datos crudos y procesados (FASTQ, BAM, GTF, etc.)\
+|-- ntbk -> Cuadernos Júpyter con el proceso de ejecución de los análisis\
 |-- README.md -> Archivo de descripción principal
 
 ---
